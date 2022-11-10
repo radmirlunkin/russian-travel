@@ -15,4 +15,4 @@
 добавить возможность комментировать страницу;
 Автор
 Radmir Lunkin 
-https://github.com/radmirlunkin/russian-travel
+https://radmirlunkin.github.io/russian-travel/

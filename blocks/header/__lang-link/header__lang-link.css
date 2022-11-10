@@ -1,6 +1,5 @@
 .header__lang-link {
     text-decoration: none;
-    margin-left: 18px;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -10,9 +9,6 @@
     opacity: 1;
 }
 
-    .header__lang-link:first-child {
-        margin-left: 0px;
-    }
 
     .header__lang-link:hover {
         opacity: 0.8;

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blocks"
+    "\\blocks",
+    "\\blocks\\header",
+    "\\blocks\\header\\__lang-link",
+    "\\blocks\\header\\__lang-links"
   ],
   "PreviewInSolutionExplorer": false
 }

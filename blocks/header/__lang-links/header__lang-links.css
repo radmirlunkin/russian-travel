@@ -6,3 +6,9 @@
     margin-top: 18px;
     gap: 18px;
 }
+
+@media screen and (max-width: 767px) {
+    .header__lang-links {
+        margin-top: 14px;
+    }
+}

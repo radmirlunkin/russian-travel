@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\blocks",
-    "\\blocks\\header",
-    "\\blocks\\header\\__lang-link",
-    "\\blocks\\header\\__lang-links"
+    "\\blocks\\footer",
+    "\\blocks\\footer\\__copyright",
+    "\\blocks\\footer\\__link",
+    "\\blocks\\footer\\__links",
+    "\\blocks\\footer\\__list-item",
+    "\\blocks\\photo-grid",
+    "\\blocks\\photo-grid\\__item",
+    "\\pages"
   ],
+  "SelectedNode": "\\pages\\index.css",
   "PreviewInSolutionExplorer": false
 }
